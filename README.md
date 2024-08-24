@@ -23,3 +23,6 @@ Hi! My name is Shadrack Muema 😄
   <a href="http://shadrack.great-site.net/?i=1" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </div>
+### Current Focus
+
+I'm currently diving deep into Python, Machine Learning, and Artificial Intelligence.
