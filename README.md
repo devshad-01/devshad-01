@@ -1,7 +1,7 @@
 Hi! My name is Shadrack Muema 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Machakos, Kenya.
+🌍  CS Student | Developer based in  Kenya.
 <br/>
 
 ### Skills
