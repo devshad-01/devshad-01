@@ -1,4 +1,4 @@
-Hi! My name is Shadrack Muema 😄
+Hi! My name is Shadrack Muema 
 ========================================================================================================================================
 
 🌍  CS Student | Developer based in  Kenya.
