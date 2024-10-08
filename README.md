@@ -26,4 +26,4 @@ Hi! My name is Shadrack Muema
       
 ### Current Focus <br/>
 
-I'm currently diving deep into Python, Machine Learning, and Artificial Intelligence <img src="https://skillicons.dev/icons?i=python" />.
+I'm currently diving deep into Python, Machine Learning, and Artificial Intelligence 
