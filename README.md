@@ -23,6 +23,7 @@ Hi! My name is Shadrack Muema
   <a href="http://shadrack.great-site.net/?i=1" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </div><br/>
+      
 ![ShadrackMwema's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadrackMwema&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
       
 ### Current Focus <br/>
