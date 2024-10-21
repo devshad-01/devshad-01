@@ -2,6 +2,10 @@ Hi! My name is Shadrack Muema
 ========================================================================================================================================
 
 
+<br/>
+🌍  CS Student | Developer based in  Kenya.
+
+### Skills
 
 <br/>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git," />
