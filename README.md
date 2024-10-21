@@ -1,7 +1,7 @@
 Hi! My name is Shadrack Muema 
 ========================================================================================================================================
 
-🌍  CS Student based in  Kenya.
+🌍  CS Student | Developer based in  Kenya.
 <br/>
 
 ### Skills
