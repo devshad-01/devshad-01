@@ -12,7 +12,7 @@ Hi! My name is Shadrack Muema
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java,mysql" /><br>
 
 
-### Socials
+### Socials.
 
 <div id="badges">
    <a href="mailto:mutinda.shadrack20@gmail.com">
