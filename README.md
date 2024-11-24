@@ -8,7 +8,7 @@ Hi! My name is Shadrack Muema
 
 
 <br/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,git," />
+<img src="https://skillicons.dev/ins?i=react,bootstrap,html,css,vscode,git," />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java,mysql" /><br>
 
 
