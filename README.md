@@ -33,8 +33,8 @@
 I'm currently diving deep into:
 - **Backend Development** with **Node.js**, **Express**, and **Python**
 - **DevOps Practices** including **CI/CD Pipelines**, **Containerization**, and **Cloud Infrastructure**
-- **Cloud Platforms** like **AWS** and **Google Cloud**
-- **Automation** using tools like **Ansible** and **Terraform**
+- **Machine learning** --- 
+
 
 ---
 
