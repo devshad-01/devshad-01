@@ -1,22 +1,22 @@
 # Hi! I'm Shadrack Muema 👋
 
-🌍 **Computer Science Student | Backend & DevOps Enthusiast | Kenya**
+🌍 **Computer Science Student | Backend Developer & DevOps Enthusiast | Kenya**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Backend Development:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" alt="Backend Skills" />
 
 **DevOps Tools:**  
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" alt="DevOps Tools" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,jenkins" alt="DevOps Tools" />
 
 **Databases:**  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" />
 
 **Tools & CI/CD:**  
-<img src="https://skillicons.dev/icons?i=git,vscode,Pycharm" alt="Tools & CI/CD" />
+<img src="https://skillicons.dev/icons?i=git,vscode,pycharm" alt="Tools & CI/CD" />
 
 ---
 
@@ -31,10 +31,13 @@
 ### 🌱 Current Focus
 
 I'm currently diving deep into:
-- **Backend Development** with **Node.js**, **Express**, and **Python**
-- **DevOps Practices** including **CI/CD Pipelines**, **Containerization**, and **Cloud Infrastructure**
-- **Machine learning** --- 
-
+- **Backend Development** with **Django**, **Flask**, and **Python**
+- **DevOps Practices** including:
+  - **Networking** and **Infrastructure as Code (IaC)**
+  - **Containerization** with **Docker** and **Kubernetes**
+  - **CI/CD Pipelines** using **GitHub Actions** and **Jenkins**
+- **Machine Learning** and **AI** with Python
+- **Cloud Platforms** like **AWS** and **Google Cloud**
 
 ---
 
@@ -47,7 +50,7 @@ I'm currently diving deep into:
   <a href="https://www.linkedin.com/in/shadrack-mutinda-2b5813239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="http://shadrack.great-site.net/?i=1" target="_blank">
+  <a href="https://shadrack-mutinda.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -56,4 +59,4 @@ I'm currently diving deep into:
 
 ### 🚀 Fun Fact
 
-When I'm not building scalable backends or automating deployments, I enjoy contributing to open-source projects and exploring new DevOps tools!
+When I'm not building scalable backends or automating deployments, I enjoy exploring **machine learning models** and contributing to open-source projects!
