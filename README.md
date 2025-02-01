@@ -10,13 +10,13 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills" />
 
 **DevOps Tools:**  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" alt="DevOps Tools" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" alt="DevOps Tools" />
 
 **Databases:**  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" />
 
 **Tools & CI/CD:**  
-<img src="https://skillicons.dev/icons?i=git,vscode,jenkins" alt="Tools & CI/CD" />
+<img src="https://skillicons.dev/icons?i=git,vscode,Pycharm" alt="Tools & CI/CD" />
 
 ---
 
