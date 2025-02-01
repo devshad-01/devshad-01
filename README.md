@@ -57,6 +57,3 @@ I'm currently diving deep into:
 
 ---
 
-### 🚀 Fun Fact
-
-When I'm not building scalable backends or automating deployments, I enjoy exploring **machine learning models** and contributing to open-source projects!
