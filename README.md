@@ -1,22 +1,22 @@
 # Hi! I'm Shadrack Muema 👋
 
-🌍 **Computer Science Student | Developer | Kenya**
+🌍 **Computer Science Student | Backend & DevOps Enthusiast | Kenya**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="Frontend Skills" />
+**Backend Development:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend Skills" />
 
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Backend Skills" />
+**DevOps Tools:**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" alt="DevOps Tools" />
 
-**Tools & Databases:**  
-<img src="https://skillicons.dev/icons?i=git,vscode,mysql" alt="Tools & Databases" />
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" />
 
-**Learning:**  
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Learning" />
+**Tools & CI/CD:**  
+<img src="https://skillicons.dev/icons?i=git,vscode,jenkins" alt="Tools & CI/CD" />
 
 ---
 
@@ -31,9 +31,10 @@
 ### 🌱 Current Focus
 
 I'm currently diving deep into:
-- **Python** for Data Science and Automation
-- **Machine Learning** and **Artificial Intelligence**
-- Building scalable web applications with **React** and **Node.js**
+- **Backend Development** with **Node.js**, **Express**, and **Python**
+- **DevOps Practices** including **CI/CD Pipelines**, **Containerization**, and **Cloud Infrastructure**
+- **Cloud Platforms** like **AWS** and **Google Cloud**
+- **Automation** using tools like **Ansible** and **Terraform**
 
 ---
 
@@ -52,3 +53,7 @@ I'm currently diving deep into:
 </div>
 
 ---
+
+### 🚀 Fun Fact
+
+When I'm not building scalable backends or automating deployments, I enjoy contributing to open-source projects and exploring new DevOps tools!
