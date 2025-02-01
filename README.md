@@ -9,17 +9,11 @@
 **Backend Development:**  
 <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" alt="Backend Skills" />
 
-**DevOps Tools:**  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,jenkins" alt="DevOps Tools" />
+**DevOps & Databases:**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,jenkins,mysql,mongodb,postgresql" alt="DevOps & Databases" />
 
-**Databases:**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" />
-
-**Tools & CI/CD:**  
-<img src="https://skillicons.dev/icons?i=git,vscode,pycharm" alt="Tools & CI/CD" />
-
----
-
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,vscode,pycharm" alt="Tools" />
 ### 📊 GitHub Stats
 
 ![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadrackMwema&show_icons=true&theme=radical&hide_border=true)
@@ -35,9 +29,9 @@ I'm currently diving deep into:
 - **DevOps Practices** including:
   - **Networking** and **Infrastructure as Code (IaC)**
   - **Containerization** with **Docker** and **Kubernetes**
-  - **CI/CD Pipelines** using **GitHub Actions** and **Jenkins**
-- **Machine Learning** and **AI** with Python
-- **Cloud Platforms** like **AWS** and **Google Cloud**
+  - **CI/CD Pipelines** using **GitHub Actions**
+- **Machine Learning** with Python
+- **Cloud Platforms** --- **AWS**
 
 ---
 
