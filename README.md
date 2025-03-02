@@ -14,11 +14,18 @@
 
 **Tools:**  
 <img src="https://skillicons.dev/icons?i=git,vscode,pycharm" alt="Tools" />
+
+---
+
 ### 📊 GitHub Stats
 
 ![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadrackMwema&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadrackMwema&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShadrackMwema&theme=radical&hide_border=true)
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=ShadrackMwema&theme=radical&hide_border=true)
 
 ---
 
@@ -48,6 +55,3 @@ I'm currently diving deep into:
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
----
-
