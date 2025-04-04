@@ -2,6 +2,7 @@
   <h1>Mutinda Shadrack</h1>
   <h3>Backend Developer | DevOps Engineer | Computer Science Student</h3>
   <p><em>Building scalable systems and automating infrastructures 🇰🇪</em></p>
+  <h3>DEV in the making</h3>
 
   <a href="https://shadrack-mutinda.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
