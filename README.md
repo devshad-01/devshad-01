@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Shadrack Muema</h1>
   <h3>Backend Developer | DevOps Engineer | Computer Science Student</h3>
-  <p><em>Building scalable systems and automating infrastructure in Kenya 🇰🇪</em></p>
+  <p><em>Building scalable systems and automating infrastructures 🇰🇪</em></p>
 
   <a href="https://shadrack-mutinda.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
@@ -65,12 +65,13 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ShadrackMwema/TraDEX_V1">
+<!--   <a href="https://github.com/ShadrackMwema/TraDEX_V1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadrackMwema&repo=TraDEX_V1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ShadrackMwema/TradEx">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadrackMwema&repo=TradEx&theme=tokyonight&hide_border=true" />
-  </a>
+  </a> -->
+   <h3>Dropping Soon 😊</h3>
 </div>
 
 <hr>
