@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Shadrack Muema</h1>
+  <h1>Mutinda Shadrack</h1>
   <h3>Backend Developer | DevOps Engineer | Computer Science Student</h3>
   <p><em>Building scalable systems and automating infrastructures 🇰🇪</em></p>
 
