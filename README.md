@@ -15,7 +15,7 @@
   </a>
   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ShadrackMwema&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=devshad-01&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <hr>
@@ -51,14 +51,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ShadrackMwema">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShadrackMwema&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadrackMwema&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/devshad-01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devshad-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshad-01&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=ShadrackMwema&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=devshad-01&theme=tokyonight&hide_border=true" />
 </div>
 
 <hr>
@@ -66,11 +66,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<!--   <a href="https://github.com/ShadrackMwema/TraDEX_V1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadrackMwema&repo=TraDEX_V1&theme=tokyonight&hide_border=true" />
+<!--   <a href="https://github.com/devshad-01/TraDEX_V1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devshad-01&repo=TraDEX_V1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/ShadrackMwema/TradEx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadrackMwema&repo=TradEx&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/devshad-01/TradEx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devshad-01&repo=TradEx&theme=tokyonight&hide_border=true" />
   </a> -->
    <h3>Dropping Soon 😊</h3>
 </div>
