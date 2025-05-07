@@ -4,10 +4,10 @@
   <p><em>Building scalable systems and automating infrastructures 🇰🇪</em></p>
   <h3>DEV in the making</h3>
 
-  <a href="https://shadrack-mutinda.vercel.app/">
+  <a href="https://shadrackmutinda.tech/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/shadrack-mutinda-2b5813239">
+  <a href="https://www.linkedin.com/in/shadrackmutinda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mutinda.shadrack20@gmail.com">
