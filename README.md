@@ -3,7 +3,7 @@
   <h3>Backend Developer | DevOps Engineer | Computer Science Student</h3>
   <p><em>Building scalable systems and automating infrastructures 🇰🇪</em></p>
     <blockquote>
-    <strong>Vision:</strong> To architect robust backend systems and DevOps solutions that empower African businesses to scale globally through cutting-edge technology.
+    <strong>Vision:</strong> To architect robust backend systems and DevOps solutions  through cutting-edge technology.
   </blockquote>
  
 
