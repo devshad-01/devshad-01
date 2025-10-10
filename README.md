@@ -111,4 +111,7 @@
   <h3>📫 Let's Connect</h3>
   <p>I'm always interested in collaborating on innovative projects and exploring new opportunities.</p>
   <p><i>Feel free to reach out via email or LinkedIn!</i></p>
+  <p style="opacity:0.03;">10/10</p>
+</div>
+
 </div>
