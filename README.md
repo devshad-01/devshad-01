@@ -12,16 +12,14 @@
 
   <br>
 
-  <blockquote>
-    <p>
-      <strong>Vision</strong><br>
-      To design and build intelligent backend systems that power real-world AI applications and scalable digital infrastructure.
-    </p>
-  </blockquote>
+  <p>
+    <strong>Vision</strong><br>
+    To design and build intelligent backend systems that power real-world AI applications and scalable digital infrastructure.
+  </p>
 
   <br>
 
-  <!-- BADGES -->
+  <!-- BADGES (FIXED SINGLE ROW) -->
   <p>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
