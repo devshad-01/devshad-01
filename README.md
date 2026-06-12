@@ -1,20 +1,35 @@
 <div align="center">
+
   <h1>Mutinda Shadrack</h1>
+
   <h3>Backend Developer | Generative AI Engineer | API & Systems Builder</h3>
+
   <p><em>Building scalable backend systems and AI-powered applications 🇰🇪</em></p>
 
   <blockquote>
     <strong>Vision:</strong> To design and build intelligent backend systems that power real-world AI applications and scalable digital infrastructure.
   </blockquote>
 
+  <!-- BADGES -->
+  <p>
+    <a href="https://shadrackmutinda.tech" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
 
-  <a href="https://shadrackmutinda.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-@@ -16,102 +16,7 @@
-  <a href="mailto:mutinda.shadrack20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 
-  <br>
+    <a href="https://github.com/devshad-01" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+
+    <a href="mailto:mutinda.shadrack20@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=devshad-01&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
